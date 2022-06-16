@@ -1,0 +1,61 @@
+
+
+body {
+    min-height: 100vh;
+    padding: 0px 300px 0px 300px; 
+    margin: 100px;
+    }
+
+    .triangle {         /*change w:20px, h:20px both to zero 
+        create triangles and vice versa*/
+width: 20px;
+height: 20px;
+border-top: 60px solid blue;
+border-right: 60px solid transparent;
+border-bottom: 60px solid transparent;
+border-left: 60px solid purple;
+}
+
+
+.nameIntro {                    /* */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#name {                 /* Name (Yvan F)*/
+    color: blue;
+}
+
+
+.navbar {                   /* Navbar*/
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}    
+
+.techSkills {
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+/*
+.projects {
+
+} */
+
+.projTitle {
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+
+
+
+
+
+/* */
+/* */
+/* */
